@@ -1,7 +1,7 @@
 # Privex24bot
 Cryptocurrency/Currency Exchange Telegram Bot
 
-The Financial application (further as bot) for buying/selling of cryptocurrency and currency exchange. Also bot provides the service of payment protected by code confirm.
+The Financial application (further as bot) for buying/selling of cryptocurrency and currency exchange. Also bot provides the service of payment protected by code confirmation.
 
 For executing financial transactions the bot can be installed and run on the local computer which connected to net. Bot supports Unix/Linux and OS X. The data storage file will be created after the first launch of the application automatically.
 
